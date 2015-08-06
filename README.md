@@ -5,6 +5,7 @@
 * [Retrofit](https://github.com/square/retrofit)
 * [RxBinding](https://github.com/JakeWharton/RxBinding)
 * [RxBonjour](https://github.com/aurae/RxBonjour)
+* [RxLifecycle](https://github.com/trello/RxLifecycle)
 * [RxMocks](https://github.com/novoda/rxmocks)
 * [RxPresso](https://github.com/novoda/rxpresso)
 * [RxRecyclerView](https://github.com/exallium/RxRecyclerView)
