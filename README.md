@@ -10,6 +10,7 @@
 * [RxPresso](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava
 * [RxRecyclerView](https://github.com/exallium/RxRecyclerView) - Reactive RecyclerView Adapter
 * [SQLBrite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper
+* [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
 
 #### Contributions welcome
 If you know a project that's not listed here, submit a pull request and help to expand the list
