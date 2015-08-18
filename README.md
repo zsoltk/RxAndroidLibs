@@ -20,6 +20,7 @@
 
 #### Other
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Rx wrapper around Google Play Services API
+* [Rx Preferences](https://github.com/f2prateek/rx-preferences) - Reactive SharedPreferences for Android
 
 ##### Contributions welcome
 If you know a project that's not listed here, submit a pull request and help to expand the list
