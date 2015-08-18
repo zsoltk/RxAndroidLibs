@@ -11,6 +11,7 @@
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
 
 #### Network
+* [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables
 * [Retrofit](https://github.com/square/retrofit) - Type-safe REST client for Android and Java
 * [RxBonjour](https://github.com/aurae/RxBonjour) - Reactive network service discovery
 
