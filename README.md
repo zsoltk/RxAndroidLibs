@@ -9,6 +9,7 @@
 #### Data
 * [SQLBrite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
+* [G-Rex](https://github.com/Gridstone/G-Rex) - A tiny library that assists in saving and restoring objects to and from disk using RxJava on Android.
 
 #### Network
 * [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables
