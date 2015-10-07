@@ -27,4 +27,4 @@
 * [RxFileWatcher](https://github.com/helmbold/rxfilewatcher) - Convenient file watcher with an RxJava interface, based on JDK WatchService
 
 ##### Contributions welcome
-If you know a project that's not listed here, submit a pull request and help to expand the list
+If you know a project that's not listed here, submit a pull request and help to expand the list. Please keep the alphabetical order when adding something to one of the lists. Thank you.
