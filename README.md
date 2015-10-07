@@ -25,6 +25,7 @@
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [Rx Preferences](https://github.com/f2prateek/rx-preferences) - Reactive SharedPreferences for Android
 * [RxFileWatcher](https://github.com/helmbold/rxfilewatcher) - Convenient file watcher with an RxJava interface, based on JDK WatchService
+* [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
 
 ##### Contributions welcome
 If you know a project that's not listed here, submit a pull request and help to expand the list. Please keep the alphabetical order when adding something to one of the lists. Thank you.
