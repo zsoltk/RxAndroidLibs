@@ -18,6 +18,7 @@
 
 #### Testing
 * [RxMocks](https://github.com/novoda/rxmocks) - Mocks/Assertions for RxJava testing
+* [RxPeople](https://github.com/cesarferreira/RxPeople) - A library with fluent API for generating random user data
 * [RxPresso](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava
 
 #### Other
