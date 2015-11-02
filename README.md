@@ -7,6 +7,7 @@
 * [RxRecyclerView](https://github.com/exallium/RxRecyclerView) - Reactive RecyclerView Adapter
 
 #### Data
+* [RxStore](https://github.com/Gridstone/RxStore) - A tiny library that assists in saving and restoring objects to and from disk using RxJava.
 * [SQLBrite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
 
