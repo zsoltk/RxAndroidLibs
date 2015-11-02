@@ -26,6 +26,8 @@
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [Rx Preferences](https://github.com/f2prateek/rx-preferences) - Reactive SharedPreferences for Android
 * [RxFileWatcher](https://github.com/helmbold/rxfilewatcher) - Convenient file watcher with an RxJava interface, based on JDK WatchService
+* [RxNearby](https://github.com/asco33/RxNearby) - Attempt at writing an RxJava style wrapper around the Google Nearby Connections API.
+* [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
 
 ##### Contributions welcome
