@@ -29,4 +29,7 @@
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
 
 ##### Contributions welcome
-If you know a project that's not listed here, submit a pull request and help to expand the list. Please keep the alphabetical order when adding something to one of the lists. Thank you.
+If you know a project that's not listed here, submit a pull request and help to expand the list.
+* Please keep the alphabetical order when adding something to one of the lists
+* Libraries should have a descriptive README with usage examples and download urls at the very least
+* It's suggested to submit 1 lib / pull request, so that they can be merged independently
