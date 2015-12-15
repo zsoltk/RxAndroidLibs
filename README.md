@@ -7,6 +7,9 @@
 * [RxRecyclerView](https://github.com/exallium/RxRecyclerView) - Reactive RecyclerView Adapter
 
 #### Data
+* [Rx Preferences](https://github.com/f2prateek/rx-preferences) - Reactive SharedPreferences for Android
+* [RxFileObserver](https://github.com/phajduk/RxFileObserver) - Simple reactive API for Android's FileObserver class
+* [RxFileWatcher](https://github.com/helmbold/rxfilewatcher) - Convenient file watcher with an RxJava interface, based on JDK WatchService
 * [RxStore](https://github.com/Gridstone/RxStore) - A tiny library that assists in saving and restoring objects to and from disk using RxJava.
 * [SQLBrite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
@@ -25,9 +28,6 @@
 #### Other
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Rx wrapper around Google Play Services API
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
-* [Rx Preferences](https://github.com/f2prateek/rx-preferences) - Reactive SharedPreferences for Android
-* [RxFileWatcher](https://github.com/helmbold/rxfilewatcher) - Convenient file watcher with an RxJava interface, based on JDK WatchService
-* [RxFileObserver](https://github.com/phajduk/RxFileObserver) - Simple reactive API for Android's FileObserver class
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
 * [RxTuples](https://github.com/pakoito/RxTuples) - RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions
