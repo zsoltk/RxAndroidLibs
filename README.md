@@ -26,6 +26,7 @@
 * [RxPresso](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava
 
 #### Other
+* [RxGoogleMaps](https://github.com/sdoward/RxGoogleMaps) - Rx wrapper around GoogleMaps
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Rx wrapper around Google Play Services API
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
