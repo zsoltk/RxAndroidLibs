@@ -28,6 +28,7 @@
 #### Other
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Rx wrapper around Google Play Services API
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
+* [RxFingerprint](https://github.com/Mauin/RxFingerprint) - Android Fingerprint authentication and encryption APIs wrapped in RxJava
 * [RxGoogleMaps](https://github.com/sdoward/RxGoogleMaps) - Rx wrapper around GoogleMaps
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
