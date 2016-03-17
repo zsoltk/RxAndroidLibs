@@ -34,6 +34,7 @@
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
 * [RxTuples](https://github.com/pakoito/RxTuples) - RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions
+* [RxWear](https://github.com/patloew/RxWear) - Reactive Wearable API Library for Android
 
 ##### Contributions welcome
 If you know a project that's not listed here, submit a pull request and help to expand the list.
