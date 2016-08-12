@@ -33,6 +33,7 @@
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Rx wrapper around Google Play Services API
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches
+* [RxClipboard](https://github.com/zsavely/RxClipboard) - RxJava binding APIs for Android clipboard
 * [RxFingerprint](https://github.com/Mauin/RxFingerprint) - Android Fingerprint authentication and encryption APIs wrapped in RxJava
 * [RxFit](https://github.com/patloew/RxFit) - Reactive Fitness API Library for Android 
 * [RxGcm](https://github.com/VictorAlbertos/RxGcm) - RxJava extension for Android Google Cloud Messaging 
@@ -42,7 +43,6 @@
 * [RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android) - OAuth RxJava extension for Android.
 * [RxTuples](https://github.com/pakoito/RxTuples) - RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions
 * [RxWear](https://github.com/patloew/RxWear) - Reactive Wearable API Library for Android
-* [RxClipboard](https://github.com/zsavely/RxClipboard) - RxJava binding APIs for Android clipboard
 
 ##### Contributions welcome
 If you know a project that's not listed here, submit a pull request and help to expand the list.
