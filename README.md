@@ -39,6 +39,7 @@
 * [RxFit](https://github.com/patloew/RxFit) - Reactive Fitness API Library for Android 
 * [RxGcm](https://github.com/VictorAlbertos/RxGcm) - RxJava extension for Android Google Cloud Messaging 
 * [RxGoogleMaps](https://github.com/sdoward/RxGoogleMaps) - Rx wrapper around GoogleMaps
+* [RxLocation](https://github.com/patloew/RxLocation) - Reactive Location APIs Library for Android and RxJava 2
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
 * [RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android) - OAuth RxJava extension for Android.
