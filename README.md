@@ -14,6 +14,7 @@
 * [RxCupboard](https://github.com/erickok/RxCupboard) - Store and retrieve streams of POJOs from an Android database using RxJava and Cupboard
 * [RxFileObserver](https://github.com/phajduk/RxFileObserver) - Simple reactive API for Android's FileObserver class
 * [RxFileWatcher](https://github.com/helmbold/rxfilewatcher) - Convenient file watcher with an RxJava interface, based on JDK WatchService
+* [RxLoader](https://github.com/L4Digital/RxLoader) - An Android Loader that wraps an RxJava Observable.
 * [RxStore](https://github.com/Gridstone/RxStore) - A tiny library that assists in saving and restoring objects to and from disk using RxJava.
 * [SQLBrite](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper
 * [StorIO](https://github.com/pushtorefresh/storio) - Beautiful API for SQLiteDatabase and ContentResolver
