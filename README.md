@@ -9,6 +9,7 @@
 * [RxRecyclerView](https://github.com/exallium/RxRecyclerView) - Reactive RecyclerView Adapter
 
 #### Data
+* [ReactiveCache](https://github.com/VictorAlbertos/ReactiveCache) - A reactive cache for Android and Java which honors the Observable chain.
 * [Rx Preferences](https://github.com/f2prateek/rx-preferences) - Reactive SharedPreferences for Android
 * [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 * [RxCupboard](https://github.com/erickok/RxCupboard) - Store and retrieve streams of POJOs from an Android database using RxJava and Cupboard
@@ -35,14 +36,18 @@
 * [ReactiveAwareness](https://github.com/mauin/reactiveawareness) - Android library to quickly and easily get the users context using the Awareness API and RxJava
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches
+* [RxBillingService](https://github.com/miguelbcr/RxBillingService) - RxJava 2 extension for Android In-App Billing version 3
 * [RxClipboard](https://github.com/zsavely/RxClipboard) - RxJava binding APIs for Android clipboard
+* [RxFcm](https://github.com/VictorAlbertos/RxFcm) - RxJava extension for Android Firebase Cloud Messaging (aka fcm)
 * [RxFingerprint](https://github.com/Mauin/RxFingerprint) - Android Fingerprint authentication and encryption APIs wrapped in RxJava
 * [RxFit](https://github.com/patloew/RxFit) - Reactive Fitness API Library for Android 
 * [RxGcm](https://github.com/VictorAlbertos/RxGcm) - RxJava extension for Android Google Cloud Messaging 
 * [RxGoogleMaps](https://github.com/sdoward/RxGoogleMaps) - Rx wrapper around GoogleMaps
+* [RxGpsService](https://github.com/miguelbcr/RxGpsService) - An Android service to retrieve GPS locations and route stats using RxJava
 * [RxLocation](https://github.com/patloew/RxLocation) - Reactive Location APIs Library for Android and RxJava 2
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
+* [RxPermissionsResult](https://github.com/VictorAlbertos/RxPermissionsResult) - Ask for permissions without breaking the observable chain
 * [RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android) - OAuth RxJava extension for Android.
 * [RxTuples](https://github.com/pakoito/RxTuples) - RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions
 * [RxWear](https://github.com/patloew/RxWear) - Reactive Wearable API Library for Android
