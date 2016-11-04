@@ -36,6 +36,7 @@
 * [ReactiveAwareness](https://github.com/mauin/reactiveawareness) - Android library to quickly and easily get the users context using the Awareness API and RxJava
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches
+* [RxBillingService](https://github.com/miguelbcr/RxBillingService) - RxJava 2 extension for Android In-App Billing version 3
 * [RxClipboard](https://github.com/zsavely/RxClipboard) - RxJava binding APIs for Android clipboard
 * [RxFingerprint](https://github.com/Mauin/RxFingerprint) - Android Fingerprint authentication and encryption APIs wrapped in RxJava
 * [RxFit](https://github.com/patloew/RxFit) - Reactive Fitness API Library for Android 
