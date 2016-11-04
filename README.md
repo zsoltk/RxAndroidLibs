@@ -9,6 +9,7 @@
 * [RxRecyclerView](https://github.com/exallium/RxRecyclerView) - Reactive RecyclerView Adapter
 
 #### Data
+* [ReactiveCache](https://github.com/VictorAlbertos/ReactiveCache) - A reactive cache for Android and Java which honors the Observable chain.
 * [Rx Preferences](https://github.com/f2prateek/rx-preferences) - Reactive SharedPreferences for Android
 * [RxCache](https://github.com/VictorAlbertos/RxCache) - Reactive caching library for Android and Java
 * [RxCupboard](https://github.com/erickok/RxCupboard) - Store and retrieve streams of POJOs from an Android database using RxJava and Cupboard
