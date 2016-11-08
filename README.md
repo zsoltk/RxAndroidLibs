@@ -51,6 +51,7 @@
 * [RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android) - OAuth RxJava extension for Android.
 * [RxTuples](https://github.com/pakoito/RxTuples) - RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions
 * [RxWear](https://github.com/patloew/RxWear) - Reactive Wearable API Library for Android
+* [Frodo](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 
 ##### Contributions welcome
 If you know a project that's not listed here, submit a pull request and help to expand the list.
