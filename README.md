@@ -33,6 +33,7 @@
 
 #### Other
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Rx wrapper around Google Play Services API
+* [Frodo](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 * [ReactiveAwareness](https://github.com/mauin/reactiveawareness) - Android library to quickly and easily get the users context using the Awareness API and RxJava
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches
