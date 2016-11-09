@@ -49,6 +49,7 @@
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
 * [RxPermissionsResult](https://github.com/VictorAlbertos/RxPermissionsResult) - Ask for permissions without breaking the observable chain
+* [RxRelay](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.
 * [RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android) - OAuth RxJava extension for Android.
 * [RxTuples](https://github.com/pakoito/RxTuples) - RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions
 * [RxWear](https://github.com/patloew/RxWear) - Reactive Wearable API Library for Android
