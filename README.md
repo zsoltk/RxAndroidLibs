@@ -33,6 +33,7 @@
 
 #### Other
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Rx wrapper around Google Play Services API
+* [Frodo](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 * [ReactiveAwareness](https://github.com/mauin/reactiveawareness) - Android library to quickly and easily get the users context using the Awareness API and RxJava
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches
@@ -51,7 +52,6 @@
 * [RxSocialConnect-Android](https://github.com/FuckBoilerplate/RxSocialConnect-Android) - OAuth RxJava extension for Android.
 * [RxTuples](https://github.com/pakoito/RxTuples) - RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions
 * [RxWear](https://github.com/patloew/RxWear) - Reactive Wearable API Library for Android
-* [Frodo](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 
 ##### Contributions welcome
 If you know a project that's not listed here, submit a pull request and help to expand the list.
