@@ -32,6 +32,7 @@
 * [RxPresso](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava
 
 #### Other
+* [RxLocation](https://github.com/patloew/RxLocation) - This library wraps the Location APIs in RxJava 2 Observables, Singles, Maybes and Completables
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Rx wrapper around Google Play Services API
 * [Frodo](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 * [ReactiveAwareness](https://github.com/mauin/reactiveawareness) - Android library to quickly and easily get the users context using the Awareness API and RxJava
