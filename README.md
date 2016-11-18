@@ -54,8 +54,10 @@
 * [RxTuples](https://github.com/pakoito/RxTuples) - RxTuples is a library to smooth RxJava usage by adding simple Tuple creation functions
 * [RxWear](https://github.com/patloew/RxWear) - Reactive Wearable API Library for Android
 
-##### Contributions welcome
-If you know a project that's not listed here, submit a pull request and help to expand the list.
-* Please keep the alphabetical order when adding something to one of the lists
-* Libraries should have a descriptive README with usage examples and download urls at the very least
-* It's suggested to submit 1 lib / pull request, so that they can be merged independently
+### Contributions are welcome
+
+Just keep these simple rules:
+
+* Alphabetical order
+* 1 lib / pull request
+* Submit good quality, mature libs. Libraries should have a descriptive README with usage examples and download urls at the very least.
