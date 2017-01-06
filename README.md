@@ -3,6 +3,7 @@
 
 #### UI
 * [RxActivityResult](https://github.com/VictorAlbertos/RxActivityResult) - A reactive-tiny-badass-vindictive library to break with the OnActivityResult implementation as it breaks the observables chain.
+* [RxAnimations](https://github.com/0ximDigital/RxAnimations) - Repository for android animations Rx wrapper
 * [RxBinding](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android's UI widgets
 * [RxLifecycle](https://github.com/trello/RxLifecycle) - Lifecycle handling APIs for Android apps using RxJava
 * [RxPaparazzo](https://github.com/FuckBoilerplate/RxPaparazzo) - RxJava extension for Android to take images using camera and gallery 
