@@ -46,6 +46,7 @@
 * [RxGcm](https://github.com/VictorAlbertos/RxGcm) - RxJava extension for Android Google Cloud Messaging 
 * [RxGoogleMaps](https://github.com/sdoward/RxGoogleMaps) - Rx wrapper around GoogleMaps
 * [RxGpsService](https://github.com/miguelbcr/RxGpsService) - An Android service to retrieve GPS locations and route stats using RxJava
+* [RxJava2Debug](https://github.com/akaita/RxJava2Debug) - RxJava 2.x extension to provide meaningful Stack Traces
 * [RxLocation](https://github.com/patloew/RxLocation) - Reactive Location APIs Library for Android and RxJava 2
 * [RxPalette](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava
