@@ -39,9 +39,11 @@
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables
 * [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches
 * [RxBillingService](https://github.com/miguelbcr/RxBillingService) - RxJava 2 extension for Android In-App Billing version 3
+* [RxBroadcast](https://github.com/cantrowitz/RxBroadcast) - Reactive Broadcast and LocalBroadcast for Android
 * [RxClipboard](https://github.com/zsavely/RxClipboard) - RxJava binding APIs for Android clipboard
 * [RxFcm](https://github.com/VictorAlbertos/RxFcm) - RxJava extension for Android Firebase Cloud Messaging (aka fcm)
 * [RxFingerprint](https://github.com/Mauin/RxFingerprint) - Android Fingerprint authentication and encryption APIs wrapped in RxJava
+* [RxFirebase](https://github.com/nmoskalenko/RxFirebase) - RxJava wrapper on Google's Firebase for Android library
 * [RxFit](https://github.com/patloew/RxFit) - Reactive Fitness API Library for Android 
 * [RxGcm](https://github.com/VictorAlbertos/RxGcm) - RxJava extension for Android Google Cloud Messaging 
 * [RxGoogleMaps](https://github.com/sdoward/RxGoogleMaps) - Rx wrapper around GoogleMaps
